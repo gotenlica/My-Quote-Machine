@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-Quote-Machine/static/css/main.5106a9f6.css",
+    "main.js": "/My-Quote-Machine/static/js/main.1f8b0f8a.js",
+    "static/js/787.dac640f5.chunk.js": "/My-Quote-Machine/static/js/787.dac640f5.chunk.js",
+    "index.html": "/My-Quote-Machine/index.html",
+    "main.5106a9f6.css.map": "/My-Quote-Machine/static/css/main.5106a9f6.css.map",
+    "main.1f8b0f8a.js.map": "/My-Quote-Machine/static/js/main.1f8b0f8a.js.map",
+    "787.dac640f5.chunk.js.map": "/My-Quote-Machine/static/js/787.dac640f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5106a9f6.css",
+    "static/js/main.1f8b0f8a.js"
+  ]
+}
